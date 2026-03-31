@@ -1,0 +1,14 @@
+# Visual Studio
+  .vs/
+  x64/
+  Debug/
+  Release/
+  *.obj
+  *.pdb
+  *.exe
+  *.user
+  *.suo
+  *.sln
+  *.vcxproj
+  *.vcxproj.filters
+  *.vcxproj.user
